@@ -608,7 +608,6 @@ libraries = {
 [node name="MusicPlayer" type="AudioStreamPlayer" parent="MusicVisualizer"]
 unique_name_in_owner = true
 autoplay = true
-bus = &"MusicAnalyzer"
 
 [node name="VBox" type="VBoxContainer" parent="MusicVisualizer"]
 layout_mode = 2
