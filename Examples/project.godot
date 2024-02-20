@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Examples 2024"
-run/main_scene="res://behaviors/seek.tscn"
+run/main_scene="res://boid_hojun.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
 
